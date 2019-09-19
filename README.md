@@ -1,4 +1,4 @@
-# MobileAppProject
+# ParFore
 
 Hey guys! So this is the README.md file. This is basically just a txt document explaining the app we are going to make. We can also add some "How Tos" to this file if anyone needs to remember how to do something. <br>
 
