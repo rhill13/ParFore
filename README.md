@@ -10,3 +10,5 @@ This document also accepts markup just like html:
   <li>This as well...</li>
   <li><a href='https://guides.github.com/features/mastering-markdown/'>Here</a> is a guide for markdown if you need it!</li>
 </ul>
+
+The project design file is located in the Documentation folder.
